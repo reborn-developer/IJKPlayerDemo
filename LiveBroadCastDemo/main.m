@@ -2,7 +2,7 @@
 //  main.m
 //  LiveBroadCastDemo
 //
-//  Created by 马英 on 16/10/28.
+//  Created by reborn on 16/10/28.
 //  Copyright © 2016年 reborn. All rights reserved.
 //
 

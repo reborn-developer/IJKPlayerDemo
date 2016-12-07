@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B45BD3F51DC32BAE00927C6D"
+               BuildableName = "LiveBroadCastDemo.app"
+               BlueprintName = "LiveBroadCastDemo"
+               ReferencedContainer = "container:LiveBroadCastDemo.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -12,7 +28,36 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B45BD40E1DC32BAE00927C6D"
+               BuildableName = "LiveBroadCastDemoTests.xctest"
+               BlueprintName = "LiveBroadCastDemoTests"
+               ReferencedContainer = "container:LiveBroadCastDemo.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B45BD4191DC32BAE00927C6D"
+               BuildableName = "LiveBroadCastDemoUITests.xctest"
+               BlueprintName = "LiveBroadCastDemoUITests"
+               ReferencedContainer = "container:LiveBroadCastDemo.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "B45BD3F51DC32BAE00927C6D"
+            BuildableName = "LiveBroadCastDemo.app"
+            BlueprintName = "LiveBroadCastDemo"
+            ReferencedContainer = "container:LiveBroadCastDemo.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +71,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "B45BD3F51DC32BAE00927C6D"
+            BuildableName = "LiveBroadCastDemo.app"
+            BlueprintName = "LiveBroadCastDemo"
+            ReferencedContainer = "container:LiveBroadCastDemo.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +90,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "B45BD3F51DC32BAE00927C6D"
+            BuildableName = "LiveBroadCastDemo.app"
+            BlueprintName = "LiveBroadCastDemo"
+            ReferencedContainer = "container:LiveBroadCastDemo.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
